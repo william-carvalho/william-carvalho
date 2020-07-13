@@ -28,4 +28,4 @@ I enjoy software development. I love JAVA but I am studying new languages ​​
 
 # Thanks
 May we all have a day full of happiness, achievements and learning!
-![congratulations](https://giphy.com/gifs/hero0fwar-karmawhore-rhyming-g9582DNuQppxC)
+![](https://giphy.com/gifs/hero0fwar-karmawhore-rhyming-g9582DNuQppxC)
