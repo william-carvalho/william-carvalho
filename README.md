@@ -1,50 +1,85 @@
-## 💜 Olá, meu nome é Will!
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=william-carvalho&theme=midnight-purple&hide_border=true" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" />
-<h4>
-    <p align="left">
-        🚀 Turning ideas into impactful products that make life easier for users and smarter for businesses.
-    </p>
-    <p align="left">
-        🧩 Java lover, always learning new languages because tech never stops evolving.
-    </p>
-    <p align="left">
-        🎧 Music fuels my creativity coding to deep house keeps me in flow.
-    </p>
-    <p align="left">
-        🔥 Inspired by great minds and real stories building code that makes life better.
-    </p>
-</h4>
-<p align="left">
-</p>  
-<h5 align="left">⚙️ Languages and Tools:</h5>
+## 💜 I,m Will! 👋
+<table  border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- 🧠 Texto à esquerda -->
+    <td align="left" width="50%" valign="top">
+      <p>🚀 Turning ideas into impactful products that make life easier for users and smarter for businesses.</p>
+      <p>🧩 Java lover, always learning new languages because tech never stops evolving.</p>
+      <p>💜 Inspired by great minds and real stories building code that makes life better.</p>
+    </td>
+    <td align="right" width="50%" valign="top">
+      <img 
+        height="200"
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=william-carvalho&theme=midnight-purple&hide_border=true"
+        alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+
+##
+
+<h5 align="left">🧠 Tech Stack:</h5>
+
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=007396)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot&logoColor=6DB33F)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
+<h5 align="left">⚙️ DevOps & Cloud:</h5>
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=githubactions)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
+<h5 align="left">🧩 Product, Business & Collaboration:</h5>
+
+![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Confluence](https://img.shields.io/badge/-Confluence-333333?style=flat&logo=confluence&logoColor=172B4D)
+![Miro](https://img.shields.io/badge/-Miro-333333?style=flat&logo=miro&logoColor=F7B500)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Product Management](https://img.shields.io/badge/-Product%20Management-333333?style=flat&logo=target&logoColor=white)
+![Customer Experience](https://img.shields.io/badge/-Customer%20Experience-333333?style=flat&logo=customer-io)
+![Agile](https://img.shields.io/badge/-Agile%20Mindset-333333?style=flat&logo=scrumalliance)
+
+<h5 align="left">💻 Tools & IDEs:</h5>
+
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+<h5 align="left">🎧 Personal & Continuous Learning:</h5>
+
+![Deep House](https://img.shields.io/badge/-🎧_Deep_House-333333?style=flat&logo=spotify&logoColor=1ED760)
+![Always Learning](https://img.shields.io/badge/-📚_Always_Learning-333333?style=flat&logo=readme&logoColor=00B0FF)
+![Human First](https://img.shields.io/badge/-❤️_Human_First-333333?style=flat&logo=heart&logoColor=FF5F5F)
 
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=williamcarvalho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="150" alt="trophy graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-carvalho&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="trophy graph" />
 </div>
-<p align="left">
-    <a href="#" title="Gmail"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail" /></a>
-    <a href="#" title="LinkedIn"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn" /></a>
-    <a href="#" title="WhatsApp"> <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp" /></a>
-    <a href="#" title="Facebook"> <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook" /></a>
-    <a href="#" title="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram" /></a>
-</p>
+
+<h5 align="left">🌐 Social & Contact Badges:</h5>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat&logo=gmail&logoColor=white)](mailto:SEUEMAIL@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/SEUUSUARIO)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/SEUUSUARIO)
+
