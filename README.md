@@ -1,21 +1,18 @@
 ## 💜 I,m Will! 👋
-<table  border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- 🧠 Texto à esquerda -->
-    <td align="left" width="50%" valign="top">
-      <p>🚀 Turning ideas into impactful products that make life easier for users and smarter for businesses.</p>
-      <p>🧩 Java lover, always learning new languages because tech never stops evolving.</p>
-      <p>💜 Inspired by great minds and real stories building code that makes life better.</p>
-    </td>
-    <td align="right" width="50%" valign="top">
-      <img 
-        height="200"
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=william-carvalho&theme=midnight-purple&hide_border=true"
-        alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
+<p align="center" >
+  <img 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=william-carvalho&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=0" 
+    alt="GitHub Streak" 
+    width="35%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=williamcarvalho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&border_radius=0" 
+    alt="GitHub Stats" 
+    width="35%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-carvalho&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&border_radius=0" 
+    alt="Top Languages" 
+    width="28%" />
+</p>
 
 ##
 
@@ -69,11 +66,6 @@
 ![Deep House](https://img.shields.io/badge/-🎧_Deep_House-333333?style=flat&logo=spotify&logoColor=1ED760)
 ![Always Learning](https://img.shields.io/badge/-📚_Always_Learning-333333?style=flat&logo=readme&logoColor=00B0FF)
 ![Human First](https://img.shields.io/badge/-❤️_Human_First-333333?style=flat&logo=heart&logoColor=FF5F5F)
-
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=williamcarvalho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="150" alt="trophy graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-carvalho&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="150" alt="trophy graph" />
-</div>
 
 <h5 align="left">🌐 Social & Contact Badges:</h5>
 
