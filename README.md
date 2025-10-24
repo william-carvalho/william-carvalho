@@ -3,15 +3,11 @@
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=william-carvalho&theme=midnight-purple&hide_border=true&background=0d1117&border_radius=0" 
     alt="GitHub Streak" 
-    width="35%" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=williamcarvalho&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&border_radius=0" 
-    alt="GitHub Stats" 
-    width="35%" />
+    width="45%" />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-carvalho&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&border_radius=0" 
     alt="Top Languages" 
-    width="28%" />
+    width="45%" />
 </p>
 
 ##
