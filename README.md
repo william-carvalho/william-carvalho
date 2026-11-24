@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="william-carvalho's GitHub profile" src="dark_mode.svg" />
-</picture>
+
 
 💜 I'm Will! 👋
 
@@ -10,62 +6,14 @@
   <strong>Software Engineer • Technical Leadership • Java • AWS • Distributed Systems • SaaS • AI Adoption</strong>
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="william-carvalho's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <p align="center">
   Building reliable software at scale.
-</p>
-
-📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=william-carvalho&theme=midnight-purple&show_icons=true&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage"
-    alt="William's GitHub Stats"
-    width="44%"
-  />
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=william-carvalho&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0d1117&langs_count=10"
-    alt="Top Languages"
-    width="40%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=william-carvalho&theme=midnight-purple&hide_border=true&background=0d1117"
-    alt="GitHub Streak"
-    width="72%"
-  />
-</p>
-
-🧭 Profile Summary
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=william-carvalho&theme=2077"
-    alt="Profile Details"
-    width="72%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=william-carvalho&theme=2077"
-    alt="Repositories per Language"
-    width="39%"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=william-carvalho&theme=2077"
-    alt="Most Commit Language"
-    width="39%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=william-carvalho&theme=2077&utcOffset=-3"
-    alt="Productive Time"
-    width="39%"
-  />
 </p>
 
 ---
