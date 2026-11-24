@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="william-carvalho's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 💜 I'm Will! 👋
 
 <p align="center">
