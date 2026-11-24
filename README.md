@@ -2,9 +2,6 @@
 
 💜 I'm Will! 👋
 
-<p align="center">
-  <strong>Software Engineer • Technical Leadership • Java • AWS • Distributed Systems • SaaS • AI Adoption</strong>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
@@ -12,6 +9,9 @@
   <img alt="william-carvalho's GitHub profile" src="dark_mode.svg" />
 </picture>
 
+<p align="center">
+  <strong>Software Engineer • Technical Leadership • Java • AWS • Distributed Systems • SaaS • AI Adoption</strong>
+</p>
 <p align="center">
   Building reliable software at scale.
 </p>
